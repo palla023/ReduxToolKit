@@ -1,0 +1,59 @@
+{
+	"products":[
+		{
+			"id":1,
+			"name": "Samsung Galaxy M33",
+			"src": "https://images-eu.ssl-images-amazon.com/images/W/WEBP_402378-T2/images/I/41t61osAZHL._SX300_SY300_QL70_FMwebp_.jpg",
+			"price":17999
+		},
+		{
+			"id":2,
+			"name": "Samsung Galaxy M32",
+			"src": "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/71os5DRhuSL._SY741_.jpg",
+			"price":16999
+		},
+		{
+			"id":3,
+			"name": "Samsung Galaxy M12",
+			"src": "https://images-eu.ssl-images-amazon.com/images/W/WEBP_402378-T2/images/I/416npwZlh7L._SX300_SY300_QL70_FMwebp_.jpg",
+			"price":16999
+		},
+		{
+			"id":4,
+			"name": "Samsung Galaxy M33",
+			"src": "https://images-eu.ssl-images-amazon.com/images/W/WEBP_402378-T2/images/I/41t61osAZHL._SX300_SY300_QL70_FMwebp_.jpg",
+			"price":17999
+		},
+		{
+			"id":5,
+			"name": "Samsung Galaxy M32",
+			"src": "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/71os5DRhuSL._SY741_.jpg",
+			"price":16999
+		},
+		{
+			"id":6,
+			"name": "Samsung Galaxy M12",
+			"src": "https://images-eu.ssl-images-amazon.com/images/W/WEBP_402378-T2/images/I/416npwZlh7L._SX300_SY300_QL70_FMwebp_.jpg",
+			"price":16999
+		},
+		{
+			"id":7,
+			"name": "Samsung Galaxy M33",
+			"src": "https://images-eu.ssl-images-amazon.com/images/W/WEBP_402378-T2/images/I/41t61osAZHL._SX300_SY300_QL70_FMwebp_.jpg",
+			"price":17999
+		},
+		{
+			"id":8,
+			"name": "Samsung Galaxy M32",
+			"src": "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/71os5DRhuSL._SY741_.jpg",
+			"price":16999
+		},
+		{
+			"id":9,
+			"name": "Samsung Galaxy M12",
+			"src": "https://images-eu.ssl-images-amazon.com/images/W/WEBP_402378-T2/images/I/416npwZlh7L._SX300_SY300_QL70_FMwebp_.jpg",
+			"price":16999
+		}
+
+	]
+}

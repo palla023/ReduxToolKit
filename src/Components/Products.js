@@ -13,7 +13,7 @@ const Products = () => {
 					{JsonData.products.map(product =>
 						<div className='col' key={product.id}>
 							<div className='card shadow m-1' style={{ "width": "18rem", "height": "25rem", "textAlign": "center" }}>
-								<img className='card-image-top' src={product.src} style={{ "width": "15rem", "height": "19rem" }} alt='' />
+								<img className='card-image-top' src={product.src} style={{ "width": "15rem", "height": "19rem" ,margin:"15px 0px 0px 15px" , borderRadius:"5px"}} alt='' />
 								<p className='card-title font-weight-bold'>{product.name} | Rs.{product.price}</p>
 								<div className='card-body p-2'>
 									<button className='btn btn-primary ml-auto'
